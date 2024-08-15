@@ -8,13 +8,11 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- Logo at the top -->
     <div class="logo">
         <img src="assets/logo.jpg" alt="PrecisionCare Hospital Logo">
-        <p>Clinic Management System</p> <!-- Added text -->
+        <p>Clinic Management System</p> 
     </div>
     
-    <!-- Container with form elements only -->
     <div class="login-container">
         <h2>Log Into Your Account</h2>
         <form id="loginForm">
@@ -32,6 +30,6 @@
         </form>
     </div>
 
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
