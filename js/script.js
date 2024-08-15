@@ -1,15 +1,16 @@
-// Get the form element
-const registrationForm = document.getElementById('registrationForm');
+// script.js
+document.getElementById('loginForm').addEventListener('submit', function(event) {
+    event.preventDefault();
 
-// Get the success message element
-const successMessage = document.getElementById('successMessage');
+    // Fetch input values
+    const accountId = document.getElementById('accountId').value;
+    const password = document.getElementById('password').value;
 
-// Add an event listener for form submission
-registrationForm.addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the default form submission
-
-    // Normally, you'd handle form data here (e.g., send it to the server)
-    // For now, we'll just show the success message
-
-    successMessage.style.display = 'block'; // Show the success message
+    // Basic validation
+    if (accountId === '' || password === '') {
+        alert('Please fill in both fields');
+    } else {
+        alert('Form submitted');
+        // You can add your login logic here
+    }
 });
