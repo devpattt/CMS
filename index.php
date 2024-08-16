@@ -28,7 +28,28 @@
         </div>
     </header>
 
-</body>
+    <main>
+        <!-- Main content -->
+    </main>
 
-    <script src="script.js"></script>
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logos">
+                <img src="riot-logo-footer.png" alt="Riot Games">
+                <img src="valorant-logo-footer.png" alt="Valorant">
+            </div>
+            <div class="footer-links">
+                <a href="#">Privacy Notice</a>
+                <a href="#">Terms of Service</a>
+                <a href="#">Accessibility</a>
+                <a href="#">Cookie Preferences</a>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            &copy; 2024 Riot Games. All Rights Reserved.
+        </div>
+    </footer>
+        <script src="script.js"></script>
+</body>
+    
 </html>
