@@ -3,16 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Riot Games - Watch Page">
-    <title>Watch - Riot Games</title>
+    <title>Clinic Management System</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <header>
         <div class="navbar">
             <div class="logo">
-                <img src="img/002-rg-2021-full-lockup-offwhite-1-removebg-preview.png" alt="Riot Games">
-                <img src="img/7053-vct-red-logo-removebg-preview.png    " alt="Valorant">
+                <img src="img/logo-removebg-preview (1).png" alt="logo">
             </div>
             <nav>
                 <a href="#">Home</a>
@@ -33,8 +31,8 @@
     <footer>
         <div class="footer-content">
             <div class="footer-logos">
-                <img src="riot-logo-footer.png" alt="Riot Games">
-                <img src="valorant-logo-footer.png" alt="Valorant">
+                <img src="riot-logo-footer.png" alt="footlogo">
+                <img src="valorant-logo-footer.png" alt="flogo">
             </div>
             <div class="footer-links">
                 <a href="#">Privacy Notice</a>
