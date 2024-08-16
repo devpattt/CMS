@@ -14,38 +14,21 @@
             </div>
             <nav>
                 <a href="#">Home</a>
-                <a href="#">Schedule</a>
-                <a href="#">Watch</a>
-                <a href="#">Standings</a>
-                <a href="#">Pick'ems</a>
-                <a href="#">News</a>
+                <a href="#">Patient Records</a>
+                <a href="#">Appointment</a>
+                <a href="#">Medical History</a>
+                <a href="#">Prescription</a>
+                <a href="#">Treatment Records</a>
+                <a href="#">Health Reports</a>
             </nav>
             <div class="user-settings">
                 <button class="lang-btn">🌐</button>
-                <button class="user-btn">Yuji ▾</button>
+                <button class="user-btn">Admin 1 ▾</button>
             </div>
         </div>
     </header>
 
-   
-    <footer>
-        <div class="footer-content">
-            <div class="footer-logos">
-                <img src="riot-logo-footer.png" alt="footlogo">
-                <img src="valorant-logo-footer.png" alt="flogo">
-            </div>
-            <div class="footer-links">
-                <a href="#">Privacy Notice</a>
-                <a href="#">Terms of Service</a>
-                <a href="#">Accessibility</a>
-                <a href="#">Cookie Preferences</a>
-            </div>
-        </div>
-        <div class="footer-copyright">
-            &copy; 2024 Riot Games. All Rights Reserved.
-        </div>
-    </footer>
+</body>
 
     <script src="script.js"></script>
-</body>
 </html>
