@@ -29,7 +29,7 @@
     </header>
 
     <main>
-        <!-- Main content -->
+        <!-- Main content --> 
     </main>
 
     <footer>
