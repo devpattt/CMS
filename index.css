@@ -27,7 +27,7 @@ header {
 }
 
 .logo img {
-    height: 50px; /* Consistent height */
+    height: 80px; /* Consistent height */
     width: auto;  /* Maintain aspect ratio */
     margin-right: 20px; /* Space between logos */
 }
@@ -99,7 +99,6 @@ nav a:hover::after {
 .lang-btn:hover, .user-btn:hover {
     color: #fff;
 }
-
 
 footer {
     background-color: #151515;
