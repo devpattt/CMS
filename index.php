@@ -35,8 +35,8 @@
     <footer>
         <div class="footer-content">
             <div class="footer-logos">
-                <img src="riot-logo-footer.png" alt="Riot Games">
-                <img src="valorant-logo-footer.png" alt="Valorant">
+                <img src="riot-logo-footer.png" alt="logo1">
+                <img src="valorant-logo-footer.png" alt="logo2">
             </div>
             <div class="footer-links">
                 <a href="#">Privacy Notice</a>
@@ -46,7 +46,7 @@
             </div>
         </div>
         <div class="footer-copyright">
-            &copy; 2024 Riot Games. All Rights Reserved.
+            &copy; 2024 Bestlink College of the Philippines. All Rights Reserved.
         </div>
     </footer>
         <script src="script.js"></script>
