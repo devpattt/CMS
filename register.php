@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="logo">
-        <img src="assets/logo.jpg" alt="PrecisionCare Hospital Logo">
+        <img src="img/logo.jpg" alt="Logo">
         <p>Clinic Management System</p> 
     </div>
     
